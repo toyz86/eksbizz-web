@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/mac/Code/eksbizz/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/mac/Code/eksbizz/pages/blog.vue",
+    "chunkName": "pages/blog"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "/Users/mac/Code/eksbizz/pages/blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/mac/Code/eksbizz/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "/Users/mac/Code/eksbizz/pages/portfolio.vue",
+    "chunkName": "pages/portfolio"
+  },
+  {
+    "name": "portfolio-details",
+    "path": "/portfolio-details",
+    "component": "/Users/mac/Code/eksbizz/pages/portfolio-details.vue",
+    "chunkName": "pages/portfolio-details"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Code/eksbizz/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
